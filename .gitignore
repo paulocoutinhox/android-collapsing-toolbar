@@ -12,3 +12,4 @@ build/
 *.iml
 local.properties
 *-report.txt
+!dist/*.apk
