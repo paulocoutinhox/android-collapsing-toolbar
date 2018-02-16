@@ -1,0 +1,14 @@
+*.apk
+*.ap_
+*.dex
+Thumbs.db
+bin/
+gen/
+.DS_Store
+build/
+.gradle
+*.class
+*.idea
+*.iml
+local.properties
+*-report.txt
